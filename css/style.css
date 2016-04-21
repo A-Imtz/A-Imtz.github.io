@@ -1,4 +1,7 @@
-/*----	License: Creative Commons Attribution 3.0 Unported
+/*----
+	Author: W3layouts
+	Author URL: http://w3layouts.com
+	License: Creative Commons Attribution 3.0 Unported
 	License URL: http://creativecommons.org/licenses/by/3.0/
 ---*/
 html,body{
@@ -58,7 +61,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 	color:#B5A9B7;
 }
 .nav ul li a:hover{
-	color:black;
+	color:gray;
 	text-decoration:none;
 }
 /*------ TOPNAV ENDS---------*/
