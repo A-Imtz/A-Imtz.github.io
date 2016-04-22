@@ -61,7 +61,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 	color:#B5A9B7;
 }
 .nav ul li a:hover{
-	color:gray;
+	color:black;
 	text-decoration:none;
 }
 /*------ TOPNAV ENDS---------*/
